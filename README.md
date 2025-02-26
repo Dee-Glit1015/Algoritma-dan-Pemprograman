@@ -1,2 +1,2 @@
 # Algoritma-dan-Pemprograman
-Beljar Algoritma dan Pemprograman
+Belajar Algoritma dan Pemprograman
